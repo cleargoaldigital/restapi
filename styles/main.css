@@ -47,13 +47,13 @@ li a {
 
 .name {
     font-size: 1.5em;
-    color: #0c49f0fb;
+    color: #fff;
     font-family: 'Nanum Myeongjo', serif;
 }
 
 .learn {
     font-size: 0.8em;
-    color: rgb(61, 133, 133);
+    color: #fff;
 }
 
 .name:hover, .learn:hover {
